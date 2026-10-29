@@ -1,7 +1,0 @@
-ollama
-chromadb
-pypdf
-fastapi
-uvicorn
-pydantic
-fonttools
